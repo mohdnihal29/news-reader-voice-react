@@ -6,25 +6,25 @@ import NewsCard from "../NewsCard/NewsCard";
 
 const infoCards = [
   {
-    color: "#3D2f64",
+    color: "#FFC0CB",
     title: "Latest News",
     text: "Give me the latest news",
   },
   {
-    color: "#FF3366",
+    color: "#FF9999",
     title: "News by Categories",
     info:
       "Business, Entertainment, General, Health, Science, Sports, Technology",
     text: "Give me the latest Technology news",
   },
   {
-    color: "#BA265D",
+    color: "#3DC4CC",
     title: "News by Terms",
     info: "Bitcoin, PlayStation 5, Smartphones, Donald Trump...",
     text: "What's up with PlayStation 5",
   },
   {
-    color: "#283593",
+    color: "#FF99FF",
     title: "News by Sources",
     info: "CNN, Wired, BBC News, Time, IGN, Buzzfeed, ABC News...",
     text: "Give me the news from CNN",

@@ -44,7 +44,7 @@ const App = () => {
     <div>
       <div className={classes.logoContainer}>
         <img
-          src="https://images.pexels.com/photos/64057/pexels-photo-64057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+          src="https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80"
           className={classes.alanLogo}
           alt="alan logo"
         />

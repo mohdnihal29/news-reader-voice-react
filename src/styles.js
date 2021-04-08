@@ -27,9 +27,9 @@ export default makeStyles((theme) => ({
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    width: "50%",
+    width: "100%",
     padding: "3%",
-    borderRadius: 10,
+    borderRadius: "80%",
     color: "white",
     backgroundColor: "rgba(21, 101, 192)",
     margin: "0 12px",
@@ -66,7 +66,7 @@ export default makeStyles((theme) => ({
   },
   alanLogo: {
     height: "27vmin",
-    borderRadius: "15%",
+    borderRadius: "20%",
     padding: "0 5%",
     margin: "3% 0",
     [theme.breakpoints.down("sm")]: {
