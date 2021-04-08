@@ -6,7 +6,7 @@ body {
 
 body {
   margin: 0;
-  background-color: whitesmoke;
+  background-color: white;
 }
 
 * {
@@ -15,4 +15,8 @@ body {
 
 html {
   scroll-behavior: smooth;
+}
+
+.main {
+  margin-left: 3rem;
 }
